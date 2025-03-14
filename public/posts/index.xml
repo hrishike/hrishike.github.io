@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on My thoughts</title>
-    <link>http://localhost:1313/site/posts/</link>
+    <link>http://localhost:54842/posts/</link>
     <description>Recent content in Posts on My thoughts</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 14 Mar 2025 13:52:40 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/site/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:54842/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Paradox of Excellence</title>
-      <link>http://localhost:1313/site/posts/the-paradox-of-excellence/</link>
+      <link>http://localhost:54842/posts/the-paradox-of-excellence/</link>
       <pubDate>Fri, 14 Mar 2025 13:52:40 +0530</pubDate>
-      <guid>http://localhost:1313/site/posts/the-paradox-of-excellence/</guid>
+      <guid>http://localhost:54842/posts/the-paradox-of-excellence/</guid>
       <description>&lt;h2 id=&#34;-introduction&#34;&gt;&lt;strong&gt;📋 Introduction&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;This article and the accompanying questionnaire aims to measure two critical organizational phenomena that most growing companies inevitably encounter. As organizations scale, sustaining a culture that not only values excellence but also effectively identifies and rewards it becomes essential. However, as excellence becomes widespread, a paradox emerges; one that can either dilute its value or end up overburdening excellent performers.&lt;/p&gt;
 &lt;p&gt;Defining excellence before we move further. It is not limited by these traits but on a broad stroke anybody who executes and exhibits these below traits might be considered an excellent performer.&lt;/p&gt;</description>
