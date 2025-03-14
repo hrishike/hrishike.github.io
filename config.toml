@@ -1,4 +1,4 @@
-baseURL = 'https://www.hrishi.info'
+baseURL = 'https://hrishi.info'
 languageCode = 'en-us'
 title = 'My thoughts'
 theme = 'PaperMod'
@@ -19,6 +19,7 @@ theme = 'PaperMod'
   ShowPageNums = true
   ShowToc = true  
   TocOpen = false
+  homeInfoParams = true
  
 [params.assets]
   disableHLJS = true
