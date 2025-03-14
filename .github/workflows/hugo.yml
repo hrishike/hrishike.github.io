@@ -35,26 +35,34 @@ jobs:
           submodules: true
           fetch-depth: 0
 
-      - name: Setup theme
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v4
+
+      - name: Install theme
         run: |
           if [ ! -d "themes/PaperMod" ]; then
             git clone https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod
           fi
-      
-      - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v4
-      
+          
+      - name: List directory structure
+        run: |
+          ls -la
+          ls -la themes/
+          ls -la themes/PaperMod/
+
       - name: Build with Hugo
         env:
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
         run: |
           hugo \
+            --themesDir ./themes \
+            --theme PaperMod \
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
-      
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
