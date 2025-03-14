@@ -1,6 +1,6 @@
 baseURL = 'https://example.com'
 languageCode = 'en-us'
-### title = 'My thoughts'
+title = 'My thoughts'
 theme = 'PaperMod'
 
 [params]
@@ -18,7 +18,7 @@ theme = 'PaperMod'
   ShowAllPagesInArchive = true
   ShowPageNums = true
   ShowToc = true  
-  TocOpen = true
+  TocOpen = false
  
 [params.assets]
   disableHLJS = true
