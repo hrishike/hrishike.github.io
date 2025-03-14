@@ -1,0 +1,56 @@
+baseURL = 'https://example.com'
+languageCode = 'en-us'
+### title = 'My thoughts'
+theme = 'PaperMod'
+
+[params]
+  env = "production"
+  description = "A personal site about my thoughts"
+  author = "Hrishikesh Deodhar"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  # disableSpecial1stPost: true
+  displayFullLangName = true
+  ShowAllPagesInArchive = true
+  ShowPageNums = true
+  ShowToc = true  
+  TocOpen = true
+ 
+[params.assets]
+  disableHLJS = true
+  favicon = "favicon.ico"
+
+[params.profileMode]
+  enabled = true
+  title = "Hrishi 🏔️"
+  subtitle = "I'm an adventure seeker and sports enthusiast. When I'm not running, cycling, or trekking, I help orchestrate business operations at InfraCloud"
+  imageUrl = "images/profile.jpeg"
+  imageTitle = "Profile Picture"
+  imageWidth = 300
+  imageHeight = 400
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/hrishike"
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/hrishikesh-deodhar/"
+  [[params.socialIcons]]
+    name = "instagram"
+    url = "https://www.instagram.com/w0ndering_nomad"
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 10
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 20 
