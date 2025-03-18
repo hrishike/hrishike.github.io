@@ -1,42 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Welcome to My Site on My thoughts</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in Welcome to My Site on My thoughts</description>
-    <generator>Hugo -- 0.145.0</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 18 Mar 2025 20:58:03 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Auth and Authz for a 5 yr old</title>
-      <link>http://localhost:1313/posts/eita5-auth-authz/</link>
-      <pubDate>Tue, 18 Mar 2025 20:58:03 +0530</pubDate>
-      <guid>http://localhost:1313/posts/eita5-auth-authz/</guid>
-      <description>&lt;h1 id=&#34;authentication-and-authorization-to-a-5yr-old&#34;&gt;Authentication and Authorization to a 5yr old&lt;/h1&gt;
-&lt;p&gt;The purpose of this article is to help understand concepts by breaking them down and drawing parallels in the world to give the reader a model to understand them. Try to explain them as if you were explaining it to a 5 year old.&lt;/p&gt;
-&lt;p&gt;Here is an attempt to explain Authorization and Authentication.&lt;/p&gt;
-&lt;p&gt;Lets take a visit to a theme park as an example. You and your 5 year old visit a theme park say, Disney world or Universal studios. And there are lots of fun activities within the park such as fun rides, theme based activities etc.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Paradox of Excellence</title>
-      <link>http://localhost:1313/posts/the-paradox-of-excellence/</link>
-      <pubDate>Fri, 14 Mar 2025 13:52:40 +0530</pubDate>
-      <guid>http://localhost:1313/posts/the-paradox-of-excellence/</guid>
-      <description>&lt;h2 id=&#34;-introduction&#34;&gt;&lt;strong&gt;📋 Introduction&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;This article and the accompanying questionnaire aims to measure two critical organizational phenomena that most growing companies inevitably encounter. As organizations scale, sustaining a culture that not only values excellence but also effectively identifies and rewards it becomes essential. However, as excellence becomes widespread, a paradox emerges; one that can either dilute its value or end up overburdening excellent performers.&lt;/p&gt;
-&lt;p&gt;Defining excellence before we move further. It is not limited by these traits but on a broad stroke anybody who executes and exhibits these below traits might be considered an excellent performer.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About Me</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;h2 id=&#34;my-journey&#34;&gt;My Journey&lt;/h2&gt;
-&lt;p&gt;I’m Hrishi, a computer science graduate with 20+ years in the software industry. I thrive on challenges and stepping outside my comfort zone—most recently, helping a startup scale from a handful of engineers to over 200 employees. My contributions have spanned engineering, hiring, sales, presales, finance, and now business operations. I’m always looking for new problems to solve. I love mentoring, sharing knowledge, and debating strong opinions.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;early-years--education&#34;&gt;&lt;strong&gt;Early Years &amp;amp; Education&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;I was born into a middle-income family in Thane, Maharashtra. I wasn’t a standout student in school or college—academic scores never really interested me. What did? Tinkering. I spent my time setting up house wiring with my dad, fixing appliances, opening up VCRs, mixers, and tape recorders just to put them back together.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Welcome to My Site on My thoughts</title><link>https://hrishi.info/</link><description>Recent content in Welcome to My Site on My thoughts</description><generator>Hugo -- 0.145.0</generator><language>en-us</language><lastBuildDate>Fri, 14 Mar 2025 13:52:40 +0530</lastBuildDate><atom:link href="https://hrishi.info/index.xml" rel="self" type="application/rss+xml"/><item><title>The Paradox of Excellence</title><link>https://hrishi.info/posts/the-paradox-of-excellence/</link><pubDate>Fri, 14 Mar 2025 13:52:40 +0530</pubDate><guid>https://hrishi.info/posts/the-paradox-of-excellence/</guid><description>&lt;h2 id="-introduction">&lt;strong>📋 Introduction&lt;/strong>&lt;/h2>
+&lt;p>This article and the accompanying questionnaire aims to measure two critical organizational phenomena that most growing companies inevitably encounter. As organizations scale, sustaining a culture that not only values excellence but also effectively identifies and rewards it becomes essential. However, as excellence becomes widespread, a paradox emerges; one that can either dilute its value or end up overburdening excellent performers.&lt;/p>
+&lt;p>Defining excellence before we move further. It is not limited by these traits but on a broad stroke anybody who executes and exhibits these below traits might be considered an excellent performer.&lt;/p></description></item><item><title>About Me</title><link>https://hrishi.info/about/</link><pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate><guid>https://hrishi.info/about/</guid><description>&lt;h2 id="my-journey">My Journey&lt;/h2>
+&lt;p>I’m Hrishi, a computer science graduate with 20+ years in the software industry. I thrive on challenges and stepping outside my comfort zone—most recently, helping a startup scale from a handful of engineers to over 200 employees. My contributions have spanned engineering, hiring, sales, presales, finance, and now business operations. I’m always looking for new problems to solve. I love mentoring, sharing knowledge, and debating strong opinions.&lt;/p>
+&lt;hr>
+&lt;h3 id="early-years--education">&lt;strong>Early Years &amp;amp; Education&lt;/strong>&lt;/h3>
+&lt;p>I was born into a middle-income family in Thane, Maharashtra. I wasn’t a standout student in school or college—academic scores never really interested me. What did? Tinkering. I spent my time setting up house wiring with my dad, fixing appliances, opening up VCRs, mixers, and tape recorders just to put them back together.&lt;/p></description></item></channel></rss>
