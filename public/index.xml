@@ -6,8 +6,18 @@
     <description>Recent content in Welcome to My Site on My thoughts</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Mar 2025 13:52:40 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 18 Mar 2025 20:58:03 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Auth and Authz for a 5 yr old</title>
+      <link>http://localhost:1313/posts/eita5-auth-authz/</link>
+      <pubDate>Tue, 18 Mar 2025 20:58:03 +0530</pubDate>
+      <guid>http://localhost:1313/posts/eita5-auth-authz/</guid>
+      <description>&lt;h1 id=&#34;authentication-and-authorization-to-a-5yr-old&#34;&gt;Authentication and Authorization to a 5yr old&lt;/h1&gt;
+&lt;p&gt;The purpose of this article is to help understand concepts by breaking them down and drawing parallels in the world to give the reader a model to understand them. Try to explain them as if you were explaining it to a 5 year old.&lt;/p&gt;
+&lt;p&gt;Here is an attempt to explain Authorization and Authentication.&lt;/p&gt;
+&lt;p&gt;Lets take a visit to a theme park as an example. You and your 5 year old visit a theme park say, Disney world or Universal studios. And there are lots of fun activities within the park such as fun rides, theme based activities etc.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The Paradox of Excellence</title>
       <link>http://localhost:1313/posts/the-paradox-of-excellence/</link>
