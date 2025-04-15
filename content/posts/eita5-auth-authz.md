@@ -1,7 +1,8 @@
 ---
 title: "Auth and Authz for a 5 yr old"
-date: 2025-03-18T20:58:03+05:30
-draft: true
+date: 2025-04-15T20:58:03+05:30
+draft: false
+publishdate: 2025-04-15
 ---
 
 # Authentication and Authorization to a 5yr old

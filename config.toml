@@ -20,7 +20,8 @@ theme = 'PaperMod'
   ShowToc = true  
   TocOpen = false
   homeInfoParams = true
- 
+  dateFormat = "02 Jan 2006" 
+
 [params.assets]
   disableHLJS = true
   favicon = "favicon.ico"
