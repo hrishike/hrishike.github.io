@@ -1,7 +1,7 @@
 ---
 title: "Phantom Jams in Orgs"
 date: 2025-04-22T14:28:35+05:30
-draft: true
+draft: false
 ---
 
 # The Phantom Jam in Organizations
