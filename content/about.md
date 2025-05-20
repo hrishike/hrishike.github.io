@@ -27,7 +27,7 @@ I spent 10 years at Infosys, followed by 3 years at HCL Technologies, and the la
 ### **Beyond Work**
 Adventure drives me. I’ve been cycling and running for over a decade, I have played competitive football in college but an ACL tear has left me far from football, but , I love trekking and the mountains. I also play the bansuri and am an amateaur carpenter too. I also enjoy history—both reading and debating it. 
 
-Through all of this, I’ve learned that real-world skills matter more than what’s on paper (You cannot discard what's on paper entirely as well). It matter far far more on where you are heading and what efforts are you taking towards achieveing that rather than where you have been. 
+Through all of this, I’ve learned that real-world skills matter more than what’s on paper (You cannot discard what's on paper entirely as well). It matter far far more on where you are heading and what efforts are you taking towards achieving that rather than where you have been. 
 It is about getting down to the basics, thinking critically and in first principals, looking at the second order effect and last but not the least being fearless. 
 And that’s a philosophy I continue to live by—whether in work, mentoring, or life.
 

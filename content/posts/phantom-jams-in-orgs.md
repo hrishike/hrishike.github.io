@@ -1,7 +1,7 @@
 ---
 title: "Phantom Jams in Orgs"
 date: 2025-04-22T14:28:35+05:30
-draft: false
+draft: true
 ---
 
 # The Phantom Jam in Organizations
@@ -11,11 +11,7 @@ The fascinating part is that a phantom jam has got nothing to do with a crash. T
 
 ## The Organizational Parallel
 
-Just like traffic phantom jams, organizations experience similar cascading slowdowns. There's no major incident or obvious blocker that you can point out to. It is just a gradual, systemic slowdown that affects productivity and momentum. 
-
-An organizational phantom jam is a cascading slowdown that occurs when small inefficiencies in processes, communication, or decision-making create a ripple effect across teams and functions. Unlike major blockers or crises, these jams are often invisible to those caught in them, making them particularly challenging to identify and address. They're like the organizational equivalent of death by a thousand cuts - no single issue seems significant enough to address, but together they create significant drag on the organization's momentum.
-
-These organizational phantom jams are particularly insidious because they are invisible to those who are caught in them (this is how it is done here :-D ), And, they significantly impact the organization's ability to move faster and forward efficiently.
+Just like traffic phantom jams, organizations experience similar cascading slowdowns as they grow. There's no obvious blocker that you can point to. It is just a gradual, systemic slowdown that affects productivity and momentum. These organizational phantom jams are particularly insidious because they are invisible to those who are caught in them (*this is how it is done here :-D*), And, they significantly impact the organization's ability to move faster and forward efficiently.
 
 ## Introduction
 
@@ -42,24 +38,24 @@ When things like these become part of the routine and eventually gets set into t
 The thing with these phantom jams is that they don't really require major dysfunction. They occur in everyday interactions across all functions:
 Here are few that I mention to get the gears turning for you to observe these in everything that you do.  (The reasons might be multiple for them, some of these are complex processes / problems )
 
-### Talent Acquisition
+#### Talent Acquisition
 - Interviewers decline interviews without suggesting alternative times, creating a loop of rescheduling and delays.
 - Recruiters are expected to source candidates without clarity on budget, timeline, or project need, causing repeated back-and-forth with hiring managers.
 
-### Engineering & Delivery
+#### Engineering & Delivery
 - Requests for help to unblock themselves lack context — engineers don't specify what they've tried already or where they're blocked.
 - There's no clear escalation path or visibility into who owns what domain, leading to orphaned or ghosted concerns/queries.
 
-### Sales & Presales
+#### Sales & Presales
 - Sales team members aren't updated on the latest service offerings or changes in delivery capacity, leading to over or under promising.
 - Presales engineers lack visibility into current bench strength, affecting accurate scoping and feasibility analysis.
 - Coordination between sales and delivery breaks down due to missing internal documentation on what can be promised and what requires customization.
 
-### Marketing
+#### Marketing
 - Content creation is delayed because brand guidelines aren't easily accessible or up-to-date.
 - Marketing teams lack real-time access to product updates, leading to outdated messaging.
 
-### Finance & Operations
+#### Finance & Operations
 - Employee reimbursements are delayed due to inconsistent submission formats.
 - Vendor onboarding takes weeks due to fragmented approval chains.
 - Travel bookings are delayed due to unclear policy interpretation.
@@ -67,22 +63,22 @@ Here are few that I mention to get the gears turning for you to observe these in
 These moments are not really explosive. They're subtle and the slowness creeps in as you grow. The cost of this slowness however is real.
 The true cost of phantom jams becomes apparent when it starts taking effect across functions because every function is working towards a common goal for the organization which is to add more revenue. 
 
-So, the jam is an example of 
-- A hiring team which isn't able to hire engineers faster because budgets arent approved by finance for the role and the role isn't defined well by the engineering function 
-and eventually when it is defined it isn't with consultation with the peers who will work with the potential hire and then it is revisited again.   
+So, a very crude example of the phantom jam is 
+- A hiring team which isn't able to hire engineers faster because budgets arent approved by finance for the role and the role isn't defined sufficiently faster by the engineering function. (The cost here is loss of talent from the market since they picked up other opportunities.)
 
-## Measuring Phantom Jams
+
+## Measuring for Phantom jams
 
 It would be a healthy exercise to understand on what basis would you measure phantom jams or slowness.
 
-A few Metrics to Track would be. 
+A few metrics to track would be. 
 
-- Measure the time to complete cross-functional tasks.
-- Measure the communication volume around standard processes.
-- Measure the rework percentage on tasks.
-- Measure the time spent in coordination. 
+- [ ] Measure the time to complete cross-functional tasks.
+- [ ] Measure the communication volume around standard processes.
+- [ ] Measure the rework percentage on tasks.
+- [ ] Measure the time spent in coordination. 
 
-## How do you avoid Phantom Jams
+## Root causes
 Typically phantom jams in organizations are due to and critically reviewing the following might help avoid phantom jams.
 
 - Systems built with an assumption of lack of trust. In the book, the Speed of Trust there is a beautiful metric that sums up the cost of it. 
@@ -104,6 +100,6 @@ Phantom jams in organizations are like the childhood story of a frog in slowly b
 4. **Communicate Clearly**: Ensure every interaction includes necessary context.
 5. **Align Incentives**: Make sure teams are working toward shared goals rather than competing objectives.
 
-The goal isn't to eliminate all processes (which will create chaos). It's to build systems / processes that move at the speed of trust, where people can focus on creating value rather than navigating bureaucracy. 
+The goal isn't to eliminate all processes (*which will create chaos*). It's to build systems / processes that move at the speed of trust, where people can focus on creating value rather than navigating bureaucracy. 
 
 ---

@@ -6,8 +6,17 @@
     <description>Recent content in Posts on My thoughts</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Apr 2025 20:58:03 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 22 Apr 2025 14:28:35 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Phantom Jams in Orgs</title>
+      <link>http://localhost:1313/posts/phantom-jams-in-orgs/</link>
+      <pubDate>Tue, 22 Apr 2025 14:28:35 +0530</pubDate>
+      <guid>http://localhost:1313/posts/phantom-jams-in-orgs/</guid>
+      <description>&lt;h1 id=&#34;the-phantom-jam-in-organizations&#34;&gt;The Phantom Jam in Organizations&lt;/h1&gt;
+&lt;p&gt;I recently learnt about something called Phantom Jams (this while being part of a traffic jam myself. I am from Bangalore, so thats nothing new for me.)
+The fascinating part is that a phantom jam has got nothing to do with a crash. They start with a tap on the brake and the car behind then brakes harder so on and so forth which causes a cascading effect triggering a chain reaction, eventually causing subsequent drivers to slow down and create a jam. This can and mostly happens even in relatively free-flowing traffic.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Auth and Authz for a 5 yr old</title>
       <link>http://localhost:1313/posts/eita5-auth-authz/</link>
@@ -36,6 +45,16 @@
 &lt;p&gt;Over my career span, I have seen many engineers miss out on well-deserved recognition. And this is not because their work wasn’t great, but because they didn’t represent it appropriately.
 Whether it’s providing status updates or showcasing completed work, how you communicate matters just as much as what you communicate.&lt;/p&gt;
 &lt;p&gt;In any business, an engineer (or any professional, really) interacts with at least three to four different personas:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kubernetes for a 5-Year-Old: The Hotel Analogy (Part 1)</title>
+      <link>http://localhost:1313/posts/eita5-k8s-part1/</link>
+      <pubDate>Tue, 18 Mar 2025 21:40:52 +0530</pubDate>
+      <guid>http://localhost:1313/posts/eita5-k8s-part1/</guid>
+      <description>&lt;h1 id=&#34;kubernetes-for-a-5-year-old-the-hotel-analogy-part-1&#34;&gt;Kubernetes for a 5-Year-Old: The Hotel Analogy (Part 1)&lt;/h1&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This is again an article drawing parallels from the real world for explaining a distributed system such as kubernetes (k8s) to a 5 year old.&lt;/p&gt;
+&lt;p&gt;Lets imagine you are traveling to a big, luxurious hotel for a vacation. The hotel is well-organized, with different rooms, amenities, and staff members ensuring guests have a smooth stay. Now, let’s take this hotel experience and compare it to a distributed platform such as &lt;strong&gt;Kubernetes&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Paradox of Excellence</title>
