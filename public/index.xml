@@ -4,10 +4,20 @@
     <title>Welcome to My Site on My thoughts</title>
     <link>http://localhost:1313/</link>
     <description>Recent content in Welcome to My Site on My thoughts</description>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo -- 0.147.7</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Apr 2025 14:28:35 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jun 2025 21:19:35 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Leverage as Currency</title>
+      <link>http://localhost:1313/posts/leverage-as-currency/</link>
+      <pubDate>Wed, 18 Jun 2025 21:19:35 +0530</pubDate>
+      <guid>http://localhost:1313/posts/leverage-as-currency/</guid>
+      <description>&lt;h1 id=&#34;leverage-the-real-currency-in-organizations&#34;&gt;Leverage: The Real Currency in Organizations&lt;/h1&gt;
+&lt;p&gt;This is my thought experiment in writing an article or a short post in a conversational manner. I loved the book &amp;ldquo;The courage to be disliked&amp;rdquo;, and i have tried to mimic the style in presenting an argument and a counter argument making it a lot more personable.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;A conversation between Aarav and Abheer&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;It is a Sunday afternoon. Aarav and Abheer are seated at a quiet coffee shop. They have been talking about work, influence, and what really moves the needle within organizations.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Phantom Jams in Orgs</title>
       <link>http://localhost:1313/posts/phantom-jams-in-orgs/</link>
