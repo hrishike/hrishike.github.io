@@ -2,13 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/leverage-as-currency/</loc>
-    <lastmod>2025-06-18T21:19:35+05:30</lastmod>
+    <loc>http://localhost:1313/posts/trust-series/demonstrate-respect/</loc>
+    <lastmod>2025-07-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-06-18T21:19:35+05:30</lastmod>
+    <lastmod>2025-07-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2025-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/trust-series/talk-straight/</loc>
+    <lastmod>2025-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/feedback-with-grace/</loc>
+    <lastmod>2025-06-19T16:10:03+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/what-is-your-worth/</loc>
+    <lastmod>2025-06-19T16:09:52+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/leverage-as-currency/</loc>
     <lastmod>2025-06-18T21:19:35+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/phantom-jams-in-orgs/</loc>
@@ -31,6 +43,8 @@
   </url><url>
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2024-03-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/trust-series/create-transparency/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
